@@ -1,0 +1,136 @@
+.carousel-item {
+  height: 530px;
+background: #000;
+}
+.row{padding-top: 0px;}
+
+.dropdown-menu{background: #bfd7ea;
+}
+.dropdown-item:hover {
+    color: #004f2d;}
+
+h1 {font-family: 'Times New Roman', Times, serif;}
+.nav{font-size: 14px;}
+.navbar{background-color:#00b33c }
+
+.nav-link{font-family: lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ background: #00b33c; border-radius: 10px;
+}
+.border-radius {border-radius: 5px; background: #bfd7ea;
+}
+.navbar-toggler-icon{background: #bfff00;
+}
+.fab {padding: 5px; font-size: 26px; border-radius: 3px; background: #bfd7ea; opacity: 0.9;}
+.fab:hover {
+  color:#bfff00;}
+.fas {padding: 5px; font-size: 26px; border-radius: 3px; background: #bfd7ea; opacity: 0.9;}
+.fas:hover {
+  color:#bfff00;}
+/* brand
+-----------------------*/
+#example1 {
+  border: 2px solid white;
+  padding: 5px;
+  border-radius: 25px; background: #bfd7ea;
+}
+.carousel-indicators li {background: #bfff00;
+  bottom: 130px;
+}
+.carousel-caption1 {
+  border-left: thick double #bfff00;
+  position: absolute;
+  right: 40%;
+  bottom: 200px;
+  left: 5%;
+  text-align: left;
+  color: #bfd7ea;
+}
+.carousel-caption2 {
+  border-left:thick double #bfff00;
+  padding: 20px;
+  position: absolute;
+  right: 40%;
+  bottom: 200px;
+  left: 5%;
+  text-align: left;
+  color: #F7F0F0;
+}
+
+.col-sm-4.focus1{
+  position: relative;
+  right: 15%;
+  bottom: 130px;
+  left: 0%;
+  z-index: 3;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.col-sm-4.focus2{
+  position: relative;
+  right: 15%;
+  bottom: 130px;
+  left: 0%;
+  z-index: 3;
+  padding-top: 0px;
+  padding-bottom: 0px
+}
+
+.col-sm-4.focus3{
+  position: relative;
+  right: 0%;
+  bottom: 130px;
+  left: 1%;
+  z-index: 3;
+  padding-top: 0px;
+  padding-bottom: 0px
+}
+.card{background: transparent;}
+.card0 {position: relative;
+left: 40px;}
+
+.btn{background-color: #bfff00;}
+.btn-success{color: #00b33c;}
+
+.focus4{position: relative;
+bottom: 80Px;
+left: 5%;
+border-left: thick double #bfff00 ;}
+.card-title{border-left: thick double #bfff00;}
+.row1 {background: #009933;}
+.jumbotron {background: url(alkekengi41.bmp);}
+
+.container1{
+  color: white;
+  width: 90%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border:thick double green;}
+
+  .container2 {
+    display: flex;
+    flex-direction: row;
+  }
+  .container3 {
+    flex: initial;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    background-color: #009933;
+    }
+
+  .form-group {
+    text-align: center;
+  }
+
+  .btn-registrazione {
+    width: 100%;
+  }
+
+  #TESTIMONIAL{
+    color : white;
+
+  }
