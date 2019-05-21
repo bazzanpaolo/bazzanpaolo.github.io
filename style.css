@@ -33,8 +33,11 @@ h1 {font-family: 'Times New Roman', Times, serif;}
   padding: 5px;
   border-radius: 25px; background: #bfd7ea;
 }
-.carousel-indicators li {background: #bfff00;
+.carousel-indicators {
   bottom: 130px;
+}
+.carousel-indicators li {
+  background-color: #bfff00;
 }
 .carousel-caption1 {
   border-left: thick double #bfff00;
@@ -98,7 +101,7 @@ left: 5%;
 border-left: thick double #bfff00 ;}
 .card-title{border-left: thick double #bfff00;}
 .row1 {background: #009933;}
-.jumbotron {background: url(alkekengi41.bmp);}
+.jumbotron {background: url(agricoltura-di-precisione1.bmp);}
 
 .container1{
   color: white;
