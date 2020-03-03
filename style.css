@@ -33,12 +33,14 @@ h1 {font-family: 'Times New Roman', Times, serif;}
   padding: 5px;
   border-radius: 25px; background: #bfd7ea;
 }
+
 .carousel-indicators {
   bottom: 130px;
 }
 .carousel-indicators li {
   background-color: #bfff00;
 }
+
 .carousel-caption1 {
   border-left: thick double #bfff00;
   position: absolute;
@@ -88,12 +90,14 @@ h1 {font-family: 'Times New Roman', Times, serif;}
   padding-top: 0px;
   padding-bottom: 0px
 }
+
 .card{background: transparent;}
 .card0 {position: relative;
 left: 40px;}
 
 .btn{background-color: #bfff00;}
 .btn-success{color: #00b33c;}
+
 
 .focus4{position: relative;
 bottom: 20Px;
