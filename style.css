@@ -121,11 +121,12 @@ border-left: thick double #bfff00 ;}
     flex-direction: row;
   }
   .container3 {
-    flex: initial;
     width: 90%;
+    color: white;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 50px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #009933;
     }
 
