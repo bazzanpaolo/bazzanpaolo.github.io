@@ -1,4 +1,4 @@
-# bazzanpaolo.github.io
+# Jacob's Well Farm
 Jacob's Well Farm
 Jacob’s well farm project è la prima I.C.O. autosufficiente al mondo che non si sofferma ad una normale azienda agricola bensì,
 va oltre creando un vero e proprio sistema pro-duttivo autonomo in grado di fornire il meglio che la natura ci offre con le più
@@ -10,7 +10,8 @@ l’organizzazione agricola.
 
 IL motivo dell'agricoltura
 Oggi il settore agricolo industriale è un settore in continua crescita che sviluppa sempre più tecnologie gestionali di precisione
-ad altissima efficienza fornendo al ‘agricoltore più rese, meno fatica e maggior controllo dell’apparato qualitativo dei propri prodotti.
+ad altissima efficienza fornendo all'agricoltore più rese, meno fatica e maggior controllo dell’apparato qualitativo dei propri
+prodotti.
 Tuttavia, oggi questi nuovi sistemi non sono alla portata della stragrande maggioranza degli agricoltori che sono costretti a utilizzare
 vecchi sistemi produttivi energeticamente dispendiosi e poco competitivi nel mercato; destinando questo settore industriale a un declino
 inesorabile.
@@ -619,6 +620,86 @@ Di seguito verrà elencata l’attrezzatura che verrà utilizzata per il Bed and
 4 ar
 5 Tettoia per utilitarie elettriche
 6 Computer centrale
+
+CAPANNONE DI TRASFORMAZIONE
+
+Manuale Illustrativo Del Capannone Di Trasformazione
+In un settore produttivo come quello agricolo ogni giorno si deve far fronte a molteplici problemi quali, quantità, qualità, tempo,
+gestione e competitività per essere in linea al mercato a cui si fa riferimento. Il nostro progetto autosufficiente racchiude tutte le
+soluzioni a queste problematiche ma ciò che le accomuna tutte è una cosa sola: ” l’energia ”, ed è questo per cui è nato il progetto
+capannone di trasformazione, per chiudere completamente tutto il ciclo di trasformazione dei prodotti derivati dai cantieri e per
+fornire energia elettrica agli stessi con modulo generatore di energia propria efficiente a e basso costo.
+
+Descrizione Del Progetto
+Il capannone di trasformazione è il complesso dove avverrà la trasformazione e la conservazione dei prodotti originati da ogni cantiere,
+Ed esso è sezionato in 5 scomparti principali con ognuno un luogo e una funzione ben specifica.
+
+1 Officina
+Luogo di manutenzione dei mezzi agricoli e riparazioni industriali temporanee.
+Affiancato ad esso sarà presente anche la gabbia dei prodotti fitosanitari con pesa, armadietto e atomizzatore per essere a disposizione
+immedita.
+2 Camera
+Camera con controllo delle incubatrici e delle gabbie di svezzamento dei pulcini dopo la schiusura delle uova.
+3 Cella frigorifera
+Il luogo di conservazione per le uova frutta e alkekengi prima della vendita a prodotto fresco o della trasformazione. Per le alkekengi
+e le uova verranno predisposte delle sezioni a parte all’interno della cella per evitare eventuali contaminazioni. Inoltre per
+l‘alkekengi e la frutta verrà anche predisposto una zona per il vaglio e la pesatura prima della vendita come prodotto fresco.
+4 Camera atmosfera controllata
+Camera per la trasformazione della frutta e dell’alkekengi dove in essi sono presenti le presse di trasformazione e le autoclavi (per
+conservazione del succo prima dell’ imbottigliamento).
+5 Laboratorio
+Laboratorio di identificazione e sperimentazione, utilizzato principalmente per lo stoccaggio dei semi e per la creazione delle piantine
+da sostituzione.
+6 Spogliatoi
+Luogo privato dove i collaboratori aziendali possono cambiare i propri indumenti e riporre i propri oggetti personali durante l’orario
+lavorativo.
+Ogni sezione del capannone sarà controllata e gestita tramite il computer Centrale.
+
+SISTEMA ENERGETICO CLIMEON
+Una centrale geotermica modulare scalabile e standardizzata in grado di fornire 150 kW di energia per singolo modulo e tutto monitorato
+e controllato a distanza tramite un software di automazione già presente all’interno del modulo.
+Nel nostro progetto questo modulo è essenziale, sicché essendo un generatore permetterà il completo funzionamento energetico del
+capannone, del Bed and breakfast, delle serre e del centro di ricarica per le auto elettriche.
+
+Le frecce illustrano il percorso fitodepurativo posto nel perimetro del terreno che servirà a depurare l’ acqua pri-ma di essere
+reimmessa nel canale madre.
+
+Ciò possibile mediante la raccolta di acqua proveniente dal canale vicino a est terreno che essendo particolarmente fresca va a
+scontrarsi con l’acqua calda derivata dai pannelli solari termici posti nel tetto del capannone, da questo scontro si creerà energia
+elettrica. Garantendone il perfetto utilizzo energetico di tutti gli stabili presenti nell’ azienda.
+*Nota bene le due chiuse regolano il flusso dell’ acqua all’ entrata e all’ uscita per evitare l’ effetto di ritorno dell’ acqua .
+
+ATTREZZATURE
+Qui di seguito viene elencata l’attrezzatura che verrà utilizzata nel capannone di trasformazione.
+
+-  Capannone (Wolf System)
+-  Utensili per officina
+-  Attrezzi per spogliatoi
+1  Climeon
+2  Celle frigorifere (più attrezzatura)
+3  Macchine trasformazione per frutta e autoclave
+4  Attrezzi da laboratorio
+5  Mulino con macina in pietra
+6  Tosatrice elettrico
+7  Caldaia a biomassa
+8  Muletto linde k per corsie strette
+9  IVECO daily centinato de montabile
+10 Rampe mobili idrauliche
+Ricordiamo che la caldaia biomassa verrà utilizzata per riscaldare il capannone e le serre durante il periodo invernale.
+
+Un’altra categoria che è bene evidenziare in questo ambito sono le macchine agricole, utili infatti alle lavorazioni sul campo.
+
+Di seguito elenchiamo le macchine agricole che verranno utilizzate
+1  New holland tv6070
+2  Case IH luxxum 120
+3  Antonio carraro trx ergit-s
+4  Escavatore gommato con possibile modifica alla cabina
+Per eventuali lavorazioni che richiedono macchine agricole con potenze più ele-vate si provvederà col noleggio delle tali.
+
+                                                                                                  RELATORE TECNICO
+                                                                                                    BIAGIO BAZZAN
+
+
 
 
 
