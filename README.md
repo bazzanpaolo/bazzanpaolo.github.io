@@ -437,12 +437,12 @@ DESCRIZIONE DEL PROGETTO
 Il progetto si basa principalmente su un sistema di rotazione culturale, custodendo la fertilità del terreno e rendendolo operativo
 tutti i periodi dell’anno. Ciò è possibile grazie a tecniche di minima lavorazione, e innovativi sistemi di precisione ( GPS, iso-bus,
 droni, ecc.) in grado di fornirci dati, tecniche e misurazioni per tutte le lavorazioni agricole che verrranno effettuate nel cantiere
-in tutto l’arco dell’ anno.
+in tutto l’arco dell’anno.
 Le tecniche utilizzate saranno prettamente tecniche minimum tillage per frumento e soia, e strip tillage per mais, concentrate nei primi
-4-5 anni di coltivazione per poi arrivare al 5°- 6° anno effettuando lavorazioni profonde (30cm massimo) quali arature o scarificature
+4-5 anni di coltivazione per poi arrivare al 5° - 6° anno effettuando lavorazioni profonde (30cm massimo) quali arature o scarificature
 per ripristinare il normale ciclo biotico del terreno.
-Le varietà utilizzate saranno varietà cerealicole antiche quali. ” waxy, marano, bianco perla e mais nero”. per il mais; nel caso del
-frumento saranno:” farro monocco, gentil rosso, saragolla , saraceno e rieti”. Varietà non elevatamente produttive ma qualitativamente
+Le varietà utilizzate saranno varietà cerealicole antiche quali. ” waxy, marano, bianco perla e mais nero ”. per il mais; nel caso del
+frumento saranno: ” farro monocco, gentil rosso, saragolla , saraceno e rieti ”. Varietà non elevatamente produttive ma qualitativamente
 cospicue e ben richieste per vari utilizzi alimentari domestici. Per la soia invece opteremo per varietà convenzionali. Al termine del
 ciclo dei 5 anni arriveremo poi a creare un nostra varietà delle medesime descritte con cui ricercheremo in futuro nuove applicazioni
 nel campo alimentare o industriale su cui lanceremo un nuovo mercato indipendente.
@@ -450,11 +450,13 @@ nel campo alimentare o industriale su cui lanceremo un nuovo mercato indipendent
 WAXY, BIANCO PERLA, MAIS NERO, MARANO, RIETI, SARACENO, SARAGOLLA, GEMTIL ROSSO.
 
 SISTEMI DI PRECISIONE APPLICATI
-Come già detto precedentemente la nostra politica di gestione sui terreni a seminativo verterà sui nuovi e innovativi sistemi di precisione ,, ossia l’ insieme di strategie volte a interventi agronomici produttivi , tenendo conto delle caratteriste biotiche , chimiche e fisiche del terreno, mantenendo il tutto nella più totale eco sostenibilità e rientrando in un tipo di coltivazione biologico/integrata .
-Su questi sistemi fanno parte i droni , i sistemi GPS, i terminali isobus e le applicazioni di guida automatica.
+Come già detto precedentemente la nostra politica di gestione sui terreni a seminativo verterà sui nuovi e innovativi sistemi di
+precisione, ossia l’insieme di strategie volte a interventi agronomici produttivi, tenendo conto delle caratteriste biotiche, chimiche e
+fisiche del terreno, mantenendo il tutto nella più totale eco sostenibilità e rientrando in un tipo di coltivazione biologico/integrata.
+Su questi sistemi fanno parte i droni, i sistemi GPS, i terminali isobus e le applicazioni di guida automatica.
 
 DRONI
-Sono macchine robotiche impiegate per rilievi, monitoraggi e trattamenti di precisione fornendo sempre da-ti aggiornati sulla
+Sono macchine robotiche impiegate per rilievi, monitoraggi e trattamenti di precisione fornendo sempre dati aggiornati sulla
 coltivazione e sul terreno; in più è possibile agire con la massima precisione anche per il controllo delle avversità e della flora
 avventizia. Il modello tipo Agras mg-1s della DJI Phantom specifico per l’agricoltura è ottimo per questo scopo, potendo anche
 predisporre di una serbatoio da 10 kg per liquidi e di 4 ugelli a dispersione pianificata che consente di effettuare trattamenti
@@ -470,33 +472,33 @@ Per isobus intendiamo tutti quei sistemi elettronici collegati alla centralina d
 trasferimento di dati dall’attrezzo in lavoro al trattore supportando l‘operatore al controllo di ogni operazione eseguita dall’
 attrezzo (semina più file, semina meno file, distribuisci + o - concimi ecc.) , questo sistema il più delle volte viene abbinato ad
 antenne GPS e terminali consentendo una lavorazione di massima precisione sul proprio terreno. Questo sistema tipo Kverneland isobus per
-macchine agricole non isobus viene fornito in kit universali (utili per le nostre macchine operatrici esenti da isobus) potendo
-trasformare una macchina operatrice non isobus in isobus.
+macchine agricole non Isobus viene fornito in kit universali (utili per le nostre macchine operatrici esenti da Isobus) potendo
+trasformare una macchina operatrice non Isobus in Isobus.
 
 GPS e TERMINALI
-Le antenne Gps e i terminali (tipo isomatch global e tellus della Kverneland) sono ottimi per un apparato Isobus Universale poiché essi
+Le antenne Gps e i terminali (tipo Isomatch Global e Tellus Della Kverneland) sono ottimi per un apparato Isobus Universale poiché essi
 permettono una comunicazione istantanea con l’attrezzo operando su di esso ogni qual volta ne sia necessario. Oltre a ciò verrà anche
 abbinato il sistema di autoguida satellitare, consentendo alla macchina agricola di lavorare nella riga impostata senza alcuna
 correzione dovuta dall’operatore. Al termine di ogni lavorazione i dati elaborati dalla macchina trattrice verranno scaricati via
-wireless al computer centrale, per memorizzare i dati di semina.
+Wireless al computer centrale, per memorizzare i dati di semina.
 
 SUBIRRIGAZIONE DEL MAIS
 Una innovazione che vogliamo apportare alla coltivazione di mais è la subirrigazione, essa oltre a garantire un ordinato uso dell’acqua
 permette anche una resa produttiva del 20-30% in più nella coltivazione in un arco complessivo di circa 20/30, anni al termine dei quali
 i gocciolatori verranno poi escavati e sostituiti, il restante verrà smaltito come rifiuto. L’anno dopo poi in piena fase rotativa esso
-verrà utilizzato per l irrigazione della soia intercalare nei periodi di siccità estiva. L’impianto utilizzato sarà di tipologia
+verrà utilizzato per l'irrigazione della soia intercalare nei periodi di siccità estiva. L’impianto utilizzato sarà di tipologia
 Netafim net Beat.
 
 SCHEMA PRODUTTIVO
 
-PIANO CULTURA FRUMENTO
+PIANO COLTURALE FRUMENTO E SOIA INTERCALARE
 Gli schemi di produzione elencano tutte le lavorazioni che verranno effettuate ogni anno nel cantiere a seminativo in questo caso
 specifico nel frumento e nella soia intercalare.
 Ricordiamo specificatamente che nel momento delle lavorazioni di preparazione del terreno (ossia prima del passaggio con erpice
 strigliatore), verranno effettuati 2 passaggi di erpicatura su sodo, la prima chiamata falsa semina perché va a scoprire le infestanti
 più dannose che potrebbero causare problemi alla coltivazione nel ciclo di accestimento/levata e la seconda atta alla semina vera e
-propria. Al 5° anno invece il ciclo intercalare verrà interrotto con la semina della veccia vellutata (cultura da sovescio
-azotofissatrice) procedendo poi alla aratura e al ripristino del ciclo precedentemente descritto.
+propria. Al 5° anno invece il ciclo intercalare verrà interrotto con la semina della veccia vellutata (cultura da sovescio azoto-
+fissatrice) procedendo poi alla aratura e al ripristino del ciclo precedentemente descritto.
 
 Ottobre 
 Trinciatura e minimalavorazione (falsa semina)
@@ -545,9 +547,9 @@ Elenchiamo qui di seguito l’ attrezzatura che dovrà essere acquistata.
 
 - 1 Seminatrice Vaderstad rapid 400c da sodo
 - 2 Kverneland cultistrip + tramoggia DF-1
-- Drone Dji phamton agras MG-1 (vedi pag. 31)
-- Kverneland isobus isomatch power kit (x2) (vedi pag.32)
-- Kverneland autoguide (vedi pag.32)
+-   Drone Dji phamton agras MG-1 (vedi pag. 31)
+-   Kverneland isobus isomatch power kit (x2) (vedi pag.32)
+-   Kverneland autoguide (vedi pag.32)
 - 3 Erpice strigliatore Maintec
 - 4 Sarchiatore Maintec
 - 5 Spandiconcime Bogballe L1 plus
@@ -562,27 +564,27 @@ precedentemente utilizzato
 
 PRODOTTI FINALI
 I prodotti finali che andremo a ricavare dal cantiere a seminativo saranno farina e mangime. La prima ricavata dalla trasformazione dei
-grani antichi ( farro monococco , gra-no saraceno ecc.) che occuperà solo un 10% del ricavato che verrà poi impiegato all'autoconsumo,
+grani antichi ( farro monococco, grano saraceno ecc.) che occuperà solo un 10% del ricavato che verrà poi impiegato all'autoconsumo,
 il 70 % verrà impiegato per la produzione di mangimi e miscelati per l’allevamento avicolo e il restante 20% stoccato in silos in
-acciaio inox (vedi attrezzatura cantiere allevamento) per la risemina nell’ anno successivo. In caso di sovrapproduzione, la parte in
+acciaio inox (vedi attrezzatura cantiere allevamento) per la risemina nell’anno successivo. In caso di sovrapproduzione, la parte in
 più verrà poi venduta alle industrie di trasformazione cerealicole.
 
 Nota bene che l’azienda arriverà ad un massimo di 100 ha circa su cui 20-30 ha degli stessi saranno a conduzione seminativa.
 
 BED AND BREAKFAST
 Manuale Illustrativo Del Progetto Bed and Breakfast
-
-Un luogo dove l’ospite può sentirsi a casa e gustare tutta la pace e l’armonia che la natu-ra può dare, ciò possibile non solo all’
+"https://www.youtube.com/watch?v=bnH-qnfr8yo"
+Un luogo dove l’ospite può sentirsi a casa e gustare tutta la pace e l’armonia che la natura può dare, ciò possibile non solo all’
 esterno dell’abitazione ma anche all’interno di essa dove i quattro elementi naturali acqua, fuoco, terra e aria sono raccolti insieme e
 offrono all’ospite uno spettacolo senza pari questo è il nostro progetto Bed and Breakfast.
 
 Descrizione Del Progetto
 Il nostro progetto Bed and Breakfast nasce dall’esigenza di dare qualcosa in più alla nostra azienda agricola, ossia di dover dare al
 cliente l’armonia, la serenità e la gioia del nostro lavoro e di sostenere ciò semplicemente vivendola a 360° gradi.
-L’ architettura completamente Huf Haus costruita con materiali pregiati a lunga durata, e completamente informatizzata con un nuovo
+L’architettura completamente Huf Haus costruita con materiali pregiati a lunga durata, e completamente informatizzata con un nuovo
 sistema di controllo elettronico di gestione dell’umidità, del calore e dell’aria promuove una casa di estremo lusso senza pari in cui
-l’ospite può godere nella completa serenità e calma, la totale vita quotidiana in campagna eliminando da se lo stress e la
-preoccupazione del mondo esterno.
+l’ospite può godere nella completa serenità e calma, la totale vita quotidiana in campagna eliminando da se lo stress e la preoccupa-
+zione del mondo esterno.
 Il modello proposto tipo bungalow art 9 sarà completamente personalizzato per creare un bed and breakfast Indimenticabile dove possibile
 anche gustare non solo la tranquillità ma anche i prodotti della nostra terra potendo poi impegnare l’intera giornata alla visita della
 città più vicina o alla normale vita quotidiana.
@@ -592,11 +594,11 @@ Gli orti su base circolare presenti nel giardino esterno verranno utilizzati per
 nel Bed and Breakfast.
 
 E-Commerce dedicati
-Un importante pagina che verrà aggiunta all’interno del nostro sito web sarà anche una pagina dedicata all’E-Commerce che non sarà una
-semplice pagina di vendita prodotti via web ma bensì un vero e proprio mercato in internet nella piattaforma decentralizzata Ethereum
+Un importante pagina che verrà aggiunta all’interno del nostro sito Web sarà anche una pagina dedicata all’ E-Commerce che non sarà una
+semplice pagina di vendita prodotti via Web ma bensì un vero e proprio mercato in Internet nella piattaforma decentralizzata Ethereum
 che permetterà la vendita di prodotti agricoli in altri stati nazionali o d’oltreoceano. Per agevolare la vendita e successivamente
 anche l’acquisto verranno fatte video dirette in prima persona e descrizione personalizzate di ogni singolo prodotto agricolo esposto
-nel filmato con una compravendita via chat sul momento e una spedizione rapida una volta acquistato il prodotto alimentare . Il tutto
+nel filmato con una compravendita via chat sul momento e una spedizione rapida una volta acquistato il prodotto alimentare. Il tutto
 sarà ovviamente tracciato via Blockchain Ethereum e personalizzato con etichetta della nostra azienda agricola.
 
 La struttura sarà come quella descritta dalle immagini in diapositiva, con però annessi alcuni particolari in più quali il bar,
@@ -604,8 +606,8 @@ reception, sala comune e punto vendita (bottega).
 
 COMPUTER CENTRALE
 Una nota importante va anche al computer centrale ossia il cuore di tutta l’azienda in cui ogni cantiere collegato fornisce dati e
-aggiornamenti via wireless su ogni progresso compiuto in ogni cantiere. In più esso stesso gestirà il sito web nella parte vendita e
-tracciatura via blockchain ethereum per la sicurezza alimentare dei nostri prodotti agricoli venduti via web.
+aggiornamenti via Wireless su ogni progresso compiuto in ogni cantiere. In più esso stesso gestirà il sito web nella parte vendita e
+tracciatura via Blockchain Ethereum per la sicurezza alimentare dei nostri prodotti agricoli venduti via Web.
 
 Il sontuoso giardino esterno potrà essere utilizzato anche come luogo ricreativo e meditativo per il cliente compensando il suddetto in
 passeggiate o semplici sguardi al panorama circostante.
@@ -620,12 +622,11 @@ elettrica aziendale senza nessun costo aggiuntivo.
 
 ATTREZZATURA
 Di seguito verrà elencata l’attrezzatura che verrà utilizzata per il Bed and Breakfast
-
 - Bungalow art 9 (+ arredamenti)
 1 Laghetto esterno
 2 Utilitarie elettriche
 3 Robot rasaerba
-4 ar
+4 Bar
 5 Tettoia per utilitarie elettriche
 6 Computer centrale
 
@@ -643,33 +644,35 @@ Il capannone di trasformazione è il complesso dove avverrà la trasformazione e
 Ed esso è sezionato in 5 scomparti principali con ognuno un luogo e una funzione ben specifica.
 
 1 Officina
-Luogo di manutenzione dei mezzi agricoli e riparazioni industriali temporanee.
-Affiancato ad esso sarà presente anche la gabbia dei prodotti fitosanitari con pesa, armadietto e atomizzatore per essere a disposizione
-immedita.
+  Luogo di manutenzione dei mezzi agricoli e riparazioni industriali temporanee.
+  Affiancato ad esso sarà presente anche la gabbia dei prodotti fitosanitari con pesa, armadietto e atomizzatore per essere a disposi-
+  zione immedita.
 2 Camera
-Camera con controllo delle incubatrici e delle gabbie di svezzamento dei pulcini dopo la schiusura delle uova.
+  Camera con controllo delle incubatrici e delle gabbie di svezzamento dei pulcini dopo la schiusura delle uova.
 3 Cella frigorifera
-Il luogo di conservazione per le uova frutta e alkekengi prima della vendita a prodotto fresco o della trasformazione. Per le alkekengi
-e le uova verranno predisposte delle sezioni a parte all’interno della cella per evitare eventuali contaminazioni. Inoltre per
-l‘alkekengi e la frutta verrà anche predisposto una zona per il vaglio e la pesatura prima della vendita come prodotto fresco.
+  Il luogo di conservazione per le uova frutta e alkekengi prima della vendita a prodotto fresco o della trasformazione. Per le Alkeke-
+  engi e le uova verranno predisposte delle sezioni a parte all’interno della cella per evitare eventuali contaminazioni. Inoltre per
+  l‘alkekengi e la frutta verrà anche predisposto una zona per il vaglio e la pesatura prima della vendita come prodotto fresco.
 4 Camera atmosfera controllata
-Camera per la trasformazione della frutta e dell’alkekengi dove in essi sono presenti le presse di trasformazione e le autoclavi (per
-conservazione del succo prima dell’ imbottigliamento).
+  Camera per la trasformazione della frutta e dell’alkekengi dove in essi sono presenti le presse di trasformazione e le autoclavi (per
+  conservazione del succo prima dell’ imbottigliamento).
 5 Laboratorio
-Laboratorio di identificazione e sperimentazione, utilizzato principalmente per lo stoccaggio dei semi e per la creazione delle piantine
-da sostituzione.
+  Laboratorio di identificazione e sperimentazione, utilizzato principalmente per lo stoccaggio dei semi e per la creazione delle 
+  piantine da sostituzione.
 6 Spogliatoi
-Luogo privato dove i collaboratori aziendali possono cambiare i propri indumenti e riporre i propri oggetti personali durante l’orario
-lavorativo.
+  Luogo privato dove i collaboratori aziendali possono cambiare i propri indumenti e riporre i propri oggetti personali durante l’orario
+  lavorativo.
+  
 Ogni sezione del capannone sarà controllata e gestita tramite il computer Centrale.
 
 SISTEMA ENERGETICO CLIMEON
+"https://www.youtube.com/watch?v=y67JeYOJuB0&t=5s"
 Una centrale geotermica modulare scalabile e standardizzata in grado di fornire 150 kW di energia per singolo modulo e tutto monitorato
 e controllato a distanza tramite un software di automazione già presente all’interno del modulo.
 Nel nostro progetto questo modulo è essenziale, sicché essendo un generatore permetterà il completo funzionamento energetico del
 capannone, del Bed and breakfast, delle serre e del centro di ricarica per le auto elettriche.
 
-Le frecce illustrano il percorso fitodepurativo posto nel perimetro del terreno che servirà a depurare l’ acqua pri-ma di essere
+Le frecce illustrano il percorso fitodepurativo posto nel perimetro del terreno che servirà a depurare l’ acqua prima di essere
 reimmessa nel canale madre.
 
 Ciò possibile mediante la raccolta di acqua proveniente dal canale vicino a est terreno che essendo particolarmente fresca va a
@@ -693,10 +696,10 @@ Qui di seguito viene elencata l’attrezzatura che verrà utilizzata nel capanno
 8  Muletto linde k per corsie strette
 9  IVECO daily centinato de montabile
 10 Rampe mobili idrauliche
+
 Ricordiamo che la caldaia biomassa verrà utilizzata per riscaldare il capannone e le serre durante il periodo invernale.
 
 Un’altra categoria che è bene evidenziare in questo ambito sono le macchine agricole, utili infatti alle lavorazioni sul campo.
-
 Di seguito elenchiamo le macchine agricole che verranno utilizzate
 1  New holland tv6070
 2  Case IH luxxum 120
