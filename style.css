@@ -9,6 +9,8 @@ background: #000;
 .dropdown-item:hover {
     color: #004f2d;}
 
+a {color: white;  
+}
 h1 {font-family: 'Times New Roman', Times, serif;}
 .nav{font-size: 14px;}
 .navbar{background-color:#00b33c }
