@@ -9,8 +9,6 @@ background: #000;
 .dropdown-item:hover {
     color: #004f2d;}
 
-a {color: white;  
-}
 h1 {font-family: 'Times New Roman', Times, serif;}
 .nav{font-size: 14px;}
 .navbar{background-color:#00b33c }
@@ -28,6 +26,9 @@ h1 {font-family: 'Times New Roman', Times, serif;}
 .fas {padding: 5px; font-size: 26px; border-radius: 3px; background: #bfd7ea; opacity: 0.9;}
 .fas:hover {
   color:#bfff00;}
+  .fa-instagram {
+  color:#cc0099;
+}
 /* brand
 -----------------------*/
 #example1 {
@@ -137,6 +138,10 @@ border-left: thick double #bfff00 ;}
   }
 
   .btn-registrazione {
+    width: 100%;
+  }
+
+  .btn-white-paper {
     width: 100%;
   }
 
