@@ -66,7 +66,7 @@ h1 {
   color:#bfff00;
 }
 .fas {
-  padding: 5px; font-size: 26px; border-radius: 3px; background: #bfd7ea; opacity: 0.9;
+  padding: 5px; font-size: 26px; border-radius: 3px; background: #bb8305; opacity: 0.9;
 }
 .fas:hover {
   color:#bfff00;
@@ -173,7 +173,7 @@ color:#bfff00;
   color: #bb8305;
 }
 .card-title {
-  border-left: thick double #bfff00;
+  border-left: thick double #bb8305;
 }
 .row1 {
   background: #009933;
