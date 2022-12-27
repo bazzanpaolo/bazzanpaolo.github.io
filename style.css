@@ -35,7 +35,7 @@ h1 {
   color: #000000;
 }
 .nav-link {
-  font-family: lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  font-family: Arial, Helvetica, sans-serif /*lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;*/Arial, Helvetica, sans-serif
   background: #0099ff; border-radius: 10px;
 }
 .nav-link:hover {
@@ -184,9 +184,12 @@ label {
 .label, label1 {
   font-size: 20px;
 }
-.jumbotron {
+/*.jumbotron {
   background: url(jwf3abstract1.jpg);
   color: #1789fc;
+}*/
+.jumbotron {
+  background: #fff;
 }
 .container1{
   color: white;
